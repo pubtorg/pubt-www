@@ -1,0 +1,36 @@
+baseURL = "https://pubt.org/"
+languageCode = "en-us"
+title = "PubT: Organization for Public Trust"
+theme = "aerial"
+
+[params]
+  name = "PubT: Organization For Public Trust"
+  about = "Open Data. Open Records. Open Finance."
+  description = "Some description header text"
+  language = "en"
+  copyright = "2019 Organization for Public Trust"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+#  googleanalytics = "UA-XXX-Y"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "fab fa-twitter"
+  link = "https://twitter.com/pubtorg"
+  target = "_blank"
+
+[[params.social]]
+  medium = "Facebook"
+  icon = "fab fa-facebook-f"
+  link = "https://facebook.com/pubtorg"
+
+[[params.social]]
+  medium = "Github"
+  icon = "fab fa-github"
+  link = "https://github.com/pubtorg"
+
+[[params.social]]
+  medium = "Email"
+  icon = "far fa-envelope"
+  link = "hello@pubt.org"
