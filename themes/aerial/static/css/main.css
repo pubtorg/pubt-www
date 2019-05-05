@@ -268,7 +268,7 @@ a:hover {
     opacity: 1;
   }
 }
-#overlay {
+/* #overlay {
   -moz-animation: overlay 1.5s 1.5s forwards;
   -webkit-animation: overlay 1.5s 1.5s forwards;
   -ms-animation: overlay 1.5s 1.5s forwards;
@@ -284,7 +284,7 @@ a:hover {
   position: fixed;
   top: 0;
   width: 100%;
-}
+} */
 
 /* Main */
 #main {
