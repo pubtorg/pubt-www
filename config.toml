@@ -33,4 +33,4 @@ theme = "aerial"
 [[params.social]]
   medium = "Email"
   icon = "far fa-envelope"
-  link = "hello@pubt.org"
+  link = "mailto:hello@pubt.org"
